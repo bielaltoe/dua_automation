@@ -58,7 +58,7 @@
 
 ### Usando o instalador (Windows)
 
-1. Baixe o arquivo `DUA_Automation_Setup.exe` da [página de releases](https://github.com/seu-usuario/dua_automation/releases)
+1. Baixe o arquivo `DUA_Automation_Setup.exe` da [página de releases](https://github.com/bielaltoe/dua_automation/releases)
 2. Execute o instalador e siga as instruções
 3. Após a instalação, inicie o programa pelo atalho no Menu Iniciar
 
@@ -66,7 +66,7 @@
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seu-usuario/dua_automation.git
+git clone https://github.com/bielaltoe/dua_automation.git
 cd dua_automation
 
 # Criar ambiente virtual
@@ -96,7 +96,7 @@ python run_ui.py
      - `VALOR`: valor do DUA (ex: 123,45)
      - `NOTA FISCAL`: número da nota fiscal (opcional)
      - `INFORMAÇÕES ADICIONAIS`: texto adicional (opcional)
-   - [Baixe um modelo de arquivo](https://github.com/seu-usuario/dua_automation/raw/main/data.csv)
+   - [Baixe um modelo de arquivo](https://github.com/bielaltoe/dua_automation/raw/main/data.csv)
 
 2. **Execute o aplicativo DUA Automation**
 
