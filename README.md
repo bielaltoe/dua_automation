@@ -96,7 +96,7 @@ python run_ui.py
      - `VALOR`: valor do DUA (ex: 123,45)
      - `NOTA FISCAL`: número da nota fiscal (opcional)
      - `INFORMAÇÕES ADICIONAIS`: texto adicional (opcional)
-   - Baixe um modelo de arquivo: [CSV](hhttps://github.com/bielaltoe/dua_automation/blob/master/planilhas_modelo/data.csv) ou [XLSX](https://github.com/bielaltoe/dua_automation/blob/master/planilhas_modelo/dua_excel.xlsx)
+   - [Baixe um modelo de planilha (.csv ou .xlsx)](https://github.com/bielaltoe/dua_automation/tree/master/planilhas_modelo)
 
 2. **Execute o aplicativo DUA Automation**
 
